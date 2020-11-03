@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-Currently I have a speed reading web app in mind. 
+Currently I have a speed reading web app in mind. Basically a web app where you can enter text and have it show the text word by word.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 

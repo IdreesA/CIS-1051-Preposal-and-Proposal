@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Currently I have a speed reading web app in mind. 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+I'm working alone.
 
 ## Do you have any questions of your own?
 
-TODO
+Not that I can think of at the moment.

@@ -37,8 +37,8 @@ N/A
 - A display on the website shows the user each word in a given text at a given speed.
 - The speed reader can be toggled with a start and stop button.
 - While the speed reader is running, the website also shows the estimated time to finish the iteration.
-- The user can go back 
+- While the speed reader is running, the user can go back and forth.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-To successfully make this web app, I'll need to learn JavaScript and Flask. I already know HTML but I'm not that familiar with CSS so I have to learn how to give the website a good design. I need to come up with a basic framework for how I want my website to look. I also need to learn the details of how websites work. I need to research what speed reading is and how to correctly apply that to my project. 
+To successfully make this web app, I'll need to learn JavaScript and Flask. I already know HTML but I'm not that familiar with CSS which means I have to learn how to use CSS and possibly a CSS framework. I need to come up with a basic framework for how I want my website to look. I also need to learn the details of how websites work. I need to research what speed reading is and how to correctly apply it to my project. 
